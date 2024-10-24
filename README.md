@@ -19,10 +19,6 @@ Essas são as principais tecnologias que tenho experiência:
 ## :sparkles: Github Stats
 [![LaercioLeal's Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LaercioLeal?cardType=level&theme=algolia&preferLogin=true&Ring=00B042&Background=030314&Text=E6E6E6&Border=C2C2F0)](https://github.com/LaercioLeal)
 
-
-## :octocat: GitHub Analytics
-<img src="https://myreadme.vercel.app/api/embed/LaercioLeal?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
-
 ## :zap: GitHub Activity
 
 <img src="https://github-profile-trophy.vercel.app/?username=LaercioLeal&theme=algolia&title=Experience,Commits,Followers,Stars,PullRequest,Repositories&margin-w=15&no-frame=true" />
